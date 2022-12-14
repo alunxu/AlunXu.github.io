@@ -4,50 +4,50 @@
 
 ## Features
 
-- Mobile-ready
-- Contact form built-in
-- Social icons built-in
-- Social sharing built-in
-- Mailchimp subscription form
-- Code Syntax Highlight with [Prism.js](https://prismjs.com/)
-- Support for Disqus comments
-- Simple Jekyll search [Simple Jekyll Search](https://github.com/christian-fei/Simple-Jekyll-Search)
+-   Mobile-ready
+-   Contact form built-in
+-   Social icons built-in
+-   Social sharing built-in
+-   Mailchimp subscription form
+-   Code Syntax Highlight with [Prism.js](https://prismjs.com/)
+-   Support for Disqus comments
+-   Simple Jekyll search [Simple Jekyll Search](https://github.com/christian-fei/Simple-Jekyll-Search)
 
 ## Getting Started
 
 **Table of Contents**
 
-- 1. Theme Configuration
-- 2. Contact form setings
-- 3. Social Links
-- 4. Site Navigation
-- 5. Images
-- 6. Local Installation
-- 7. Deployment
-- 8. Support
+-   1. Theme Configuration
+-   2. Contact form setings
+-   3. Social Links
+-   4. Site Navigation
+-   5. Images
+-   6. Local Installation
+-   7. Deployment
+-   8. Support
 
 ### 1. Theme Configuration
 
 The theme configuration options can be found within the **\_config.yml** file. More information about Jekyll configuration can be found in the [Jekyll documentation](https://jekyllrb.com/docs/configuration/).
 
-- name - the title of your blog, shown in the page and description areas.
-- description - the description of your site for social meta tag, search engines, and feed.xml.
-- logo - the image for site logo.
-- author-image - the author profile image, shown in the sidebar/header intro section. The author image can be found in the royce/assets/images/authorimage.jpg location.
-- author-greetings - used in the home page for the text intro section.
-- favicon - the icon for your site.
-- baseurl - the subpath of your site, e.g. /blog, for generating urls. If baseurl is set, you will need to prepend the baseurl to these settings: author image, site navigation, post images.
-- production_url - the base hostname and protocol of your site for where absolute urls are needed.
-- disqus - your Disqus shortname. Enter the Disqus shortname here if you wish to have Disqus comments enabled, leave blank to disable comments.
-- mailchimp_url - your form action URL for MailChimp newsletter signup form.
+-   name - the title of your blog, shown in the page and description areas.
+-   description - the description of your site for social meta tag, search engines, and feed.xml.
+-   logo - the image for site logo.
+-   author-image - the author profile image, shown in the sidebar/header intro section. The author image can be found in the royce/assets/images/authorimage.jpg location.
+-   author-greetings - used in the home page for the text intro section.
+-   favicon - the icon for your site.
+-   baseurl - the subpath of your site, e.g. /blog, for generating urls. If baseurl is set, you will need to prepend the baseurl to these settings: author image, site navigation, post images.
+-   production_url - the base hostname and protocol of your site for where absolute urls are needed.
+-   disqus - your Disqus shortname. Enter the Disqus shortname here if you wish to have Disqus comments enabled, leave blank to disable comments.
+-   mailchimp_url - your form action URL for MailChimp newsletter signup form.
 
 ### 2. Contact form setings
 
 To make contact form work make sure you have defined "email: youremail@email.com" in \_config.yml file and verify your form on formspree.io.
 
-- email - email used for contact form.
-- contact_page_description: - description used in contact form page (contact.html).
-- thankyou_page_description - description used in thank you page (thank-you.html).
+-   email - email used for contact form.
+-   contact_page_description: - description used in contact form page (contact.html).
+-   thankyou_page_description - description used in thank you page (thank-you.html).
 
 ### 3. Social Links
 
@@ -65,7 +65,7 @@ url: /newpage/
 
 ### 5. Images
 
-Images for pages are located in the royce/assets/images folder and images for posts are located in the royce/assets/images/posts directory.
+Images for p ages are located in the royce/assets/images folder and images for posts are located in the royce/assets/images/posts directory.
 
 #### Image With Caption
 

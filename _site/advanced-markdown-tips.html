@@ -28,7 +28,7 @@
     
 
     <!-- Site Favicon -->
-    <link rel="shortcut icon" href="http://localhost:4000/assets/images/favicon.ico" type="image/png" />
+    <link rel="shortcut icon" href="http://localhost:4000/assets/images/authorimage.jpg" type="image/png" />
 
     <!-- Font Embed Code -->
     <link href="https://fonts.googleapis.com/css?family=Crimson+Text:400,400i,600,600i|Karla:400,400i,700,700i"
@@ -96,15 +96,11 @@
 						<ul class="menu">
 							  
 							<li class="menu-item ">
-								<a href="/about">Home</a>
-							</li>
-							  
-							<li class="menu-item ">
-								<a href="">Research</a>
-							</li>
-							  
-							<li class="menu-item ">
 								<a href="/">Blog</a>
+							</li>
+							  
+							<li class="menu-item ">
+								<a href="/tags">Archive</a>
 							</li>
 							  
 							<li class="menu-item ">
@@ -112,7 +108,7 @@
 							</li>
 							  
 							<li class="menu-item ">
-								<a href="/contact">Contact</a>
+								<a href="/about">About</a>
 							</li>
 							
 						</ul>
@@ -223,54 +219,19 @@
 </div>
 
         </div>
-        <footer class="post-footer">
+        <!-- <footer class="post-footer">
             <div class="post-share">
                 <span class="post-share-title">Share:</span>
                 <a target="_blank"
                     href="https://twitter.com/share?text=Advanced+Markdown+tips&amp;url=https://royce.netlify.com/advanced-markdown-tips">Twitter</a>
                 <a target="_blank"
                     href="https://www.facebook.com/sharer/sharer.php?u=https://royce.netlify.com/advanced-markdown-tips">Facebook</a>
-            </div><!-- .share-post -->
-        </footer>
-        
-<section id="comments-area" class="comments-area">
-    <h2 class="comments-title">Comments</h2>
-    <div class="comments-inside">
-        <div id="disqus_thread"></div>
-    </div><!-- .comments-inside -->
-    <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by
-            Disqus.</a></noscript>
-    <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
-</section><!-- .comments-area -->
-<script type="text/javascript">
-    var disqus_shortname = 'justgoodthemes';
-    var disqus_developer = 0;
-    (function () {
-        var dsq = document.createElement('script');
-        dsq.type = 'text/javascript';
-        dsq.async = true;
-        dsq.src = window.location.protocol + '//' + disqus_shortname + '.disqus.com/embed.js';
-        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-    })();
-</script>
-
+            </div>
+        </footer> -->
+       
     </article>
-    
-    <section class="newsletter-box inner">
-    <h2 class="newsletter-box-title">Subscribe to Alun Xu newsletter</h2>
-    <p>Get the latest and greatest from Alun Xu delivered straight to your inbox every week.</p>
-    <!-- Begin MailChimp Signup Form -->
-    <div id="mc_embed_signup">
-        <form action="//justgoodthemes.us3.list-manage.com/subscribe/post?u=78f1bab16028354caeb23aecd&amp;id=4a7330d117" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form"
-            class="validate gh-subscribe-form" target="_blank" novalidate>
-            <label for="mce-EMAIL" class="screen-reader-text">Email Address</label>
-            <input type="email" value="" name="EMAIL" class="required email subscribe-email" id="mce-EMAIL" placeholder="Your email address">
-            <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button">
-        </form>
-    </div>
-    <!--End mc_embed_signup-->
-</section><!-- .widget -->
-    
+
+
     <section class="read-next inner">
         <h2 class="read-next-title">Read Next</h2>
         
@@ -292,11 +253,62 @@
             </header>
         </article>
         
-    </section><!-- .read-next -->
+        
+<section id="comments-area" class="comments-area">
+	<!-- <h2 class="comments-title">Comments</h2> -->
+	<div class="comments-inside">
+		<div id="disqus_thread"></div>
+	</div>
+	<!-- .comments-inside -->
+	<script>
+		/**
+		*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+		*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+		/*
+		var disqus_config = function () {
+		this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+		this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+		};
+		*/
+		(function() { // DON'T EDIT BELOW THIS LINE
+		var d = document, s = d.createElement('script');
+		s.src = 'https://EXAMPLE.disqus.com/embed.js';
+		s.setAttribute('data-timestamp', +new Date());
+		(d.head || d.body).appendChild(s);
+		})();
+	</script>
+	<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+	<a href="http://disqus.com" class="dsq-brlink"
+		>comments powered by <span class="logo-disqus">Disqus</span></a
+	>
+</main>
+</section>
+<!-- .comments-area -->
+<script type="text/javascript">
+	var disqus_shortname = "aluniverse-1";
+	var disqus_developer = 0;
+	(function () {
+		var dsq = document.createElement("script");
+		dsq.type = "text/javascript";
+		dsq.async = true;
+		dsq.src =
+			window.location.protocol +
+			"//" +
+			disqus_shortname +
+			".disqus.com/embed.js";
+		(
+			document.getElementsByTagName("head")[0] ||
+			document.getElementsByTagName("body")[0]
+		).appendChild(dsq);
+	})();
+</script>
+
+
+    </section>
     <!-- Create a sorted array of tags -->
-     
+    <!--  
     <section class="tagcloud inner">
-        <h2 class="tagcloud-title">Tags</h2>
+        <h2 class="tagcloud-title">Search Blog by Tags</h2>
         <div class="tag-links">
             
             <a href='/tags/#JavaScript'>JavaScript</a>
@@ -309,9 +321,10 @@
             
             <a href='/tags/#dsad'>dsad</a>
             
-        </div><!-- .tag-links -->
-    </section><!-- .tagcloud -->
-</main><!-- .site-main -->
+        </div>
+    </section>-->
+</main>
+<!-- .site-main -->
 
                 
 

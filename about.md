@@ -17,13 +17,15 @@ title: About
 [Melbourne Conservatorium of Music](https://finearts-music.unimelb.edu.au/about-us/mcm#:~:text=The%20Conservatorium%20provides%20a%20comprehensive,Performance%20Science%20and%20New%20Music.);  
 [University of Melbourne](https://www.unimelb.edu.au/)
 
-weilunx1 \[at\] student \[dot\] unimelb \[dot\] edu \[dot\] au
+weilunx1 \[at\] student \[dot\] unimelb \[dot\] edu \[dot\] au\
 
-I am a senior undergraduate student at the [University of Melbourne](https://www.unimelb.edu.au/), ranked top 3% academically among over 10,000 students in the faculty of science. I acquired knowledge of statistics and psychology from [Bachelor of Science](https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-science/), knowledge of computer science from [Diploma in computing](https://study.unimelb.edu.au/find/courses/undergraduate/diploma-in-computing/), and knowledge of composition and orchestration from [Diploma in Music](https://study.unimelb.edu.au/find/courses/undergraduate/diploma-in-music/).
+**Current Position** | I am a research assistant in the [Complex Human Data Hub](https://psychologicalsciences.unimelb.edu.au/research/hubs/chdh), computationally modelling human visual cognition and illusion from Bayesian perspective under the supervision of [Prof. Charles Kemp](http://www.charleskemp.com/).
 
-As a data scientist and musician, my lifetime pursuit is to **innovatively enliven human communication through an emotion-driven algorithmic composition system**. I aspire to enhance individuals’ ability to convey unspoken sentiments through music, thereby helping them overcome expressive limitations and alleviate mental anguish.
+**Background**| I am an undergraduate at the [University of Melbourne](https://www.unimelb.edu.au/), ranked top 3% academically among over 10,000 students in the faculty of science. I acquired knowledge of statistics and psychology from [Bachelor of Science](https://study.unimelb.edu.au/find/courses/undergraduate/bachelor-of-science/), skills of computer science from [Diploma in computing](https://study.unimelb.edu.au/find/courses/undergraduate/diploma-in-computing/), and sense of composition and orchestration from [Diploma in Music](https://study.unimelb.edu.au/find/courses/undergraduate/diploma-in-music/).
+sss
+**Destination** | As a data scientist and musician, my lifetime pursuit is to **innovatively enliven human communication through an emotion-driven algorithmic composition system**. I aspire to enhance individuals’ ability to convey unspoken sentiments through music, thereby helping them overcome expressive limitations and alleviate mental anguish.
 
-Therefore, my **research interests** broadly underlie the intersection of high-level music technology and data science, including but not limited to (sorted by preference)
+Therefore, my **research interests** broadly underlie the **intersection of high-level music technology and data science**, including but not limited to (sorted by preference)
 
 -   algorithmic composition and orchestration based on machine learning
 -   computational analysis and inference of human music perception and cognition
@@ -33,12 +35,10 @@ Therefore, my **research interests** broadly underlie the intersection of high-l
 -   similarity learning
 -   automatic annotation
 
-Currently, I am an undergraduate researcher in the [Complex Human Data Hub](https://psychologicalsciences.unimelb.edu.au/research/hubs/chdh), computationally modelling human visual cognition and illusion from the Bayesian perspective under the supervision of [Prof. Charles Kemp](http://www.charleskemp.com/),
-
 <!-- Curriculum Vitae ([English](../files/HongzhengChen_CV.pdf) / [Chinese](../files/HongzhengChen_CV_zh.pdf)).
  -->
 
-My updated Curriculum Vitae is [here](../files/HongzhengChen_CV.pdf)
+My up-to-date Curriculum Vitae is [here](../files/HongzhengChen_CV.pdf)
 
 <!-- ## Education
 

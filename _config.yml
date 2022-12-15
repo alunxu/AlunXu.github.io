@@ -7,10 +7,10 @@ logo:
 author:
     image: "authorimage.jpg"
     greetings: "Weilcome to Aluniverse, a space to navigate, dedicate, and illuminate."
-favicon: "assets/images/favicon.ico"
+favicon: "assets/images/authorimage.jpg"
 baseurl:
 production_url: https://royce.netlify.com/
-disqus: "justgoodthemes"
+disqus: aluniverse-1
 mailchimp_url: "//justgoodthemes.us3.list-manage.com/subscribe/post?u=78f1bab16028354caeb23aecd&amp;id=4a7330d117"
 # Add your GA Tracking Id
 ga_analytics:
@@ -35,17 +35,20 @@ thankyou_page_description: "Your message has been successfully sent. We will con
 
 # Navigation
 navigation:
-    - text: Home
-      url: /about
-    - text: Research
     - text: Blog
       url: /
+    # - text: Projects
+    #   url: /project
+    - text: Archive
+      url: /tags
     - text: Search
       url: /search
+    - text: About
+      url: /about
     # - text: Style Guide
     #   url: /style-guide
-    - text: Contact
-      url: /contact
+    # - text: Contact
+    #   url: /contact
 
 # Required Plugins
 plugins_dir:

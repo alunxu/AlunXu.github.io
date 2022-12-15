@@ -42,59 +42,80 @@
 <body class="layout-default">
     <div id="page" class="site">
         <header id="masthead" class="site-header">
-    <div class="site-header-wrap">
-        <div class="site-header-inside">
+	<div class="site-header-wrap">
+		<div class="site-header-inside">
+			<script type="text/x-mathjax-config">
+				MathJax.Hub.Config({
+				  tex2jax: {
+				    skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+				    inlineMath: [['$','$']]
+				  }
+				});
+			</script>
+			<script
+				src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"
+				type="text/javascript"
+			></script>
+			<div class="site-branding">
+				
+				<p class="profile">
+					<a href="/">
+						<img
+							src="/assets/images/authorimage.jpg"
+							alt="'s Picture"
+							class="avatar"
+						/>
+					</a>
+				</p>
+				<div class="site-identity">
+					
+					<h1 class="site-title">
+						<a href="/">Alun Xu</a>
+					</h1>
+					 
+					<p class="site-description">Musical Data Scientist</p>
+					
+				</div>
+				<!-- .site-identity -->
+				
+				<button id="menu-toggle" class="menu-toggle">
+					<span class="screen-reader-text">Main Menu</span
+					><span class="icon-menu" aria-hidden="true"></span>
+				</button>
+			</div>
+			<!-- .site-branding -->
 
-            <div class="site-branding">
-                
-                <p class="profile">
-                    <a href="/">
-                        <img src="/assets/images/authorimage.jpg" alt="'s Picture"
-                            class="avatar" />
-                    </a>
-                </p>
-                <div class="site-identity">
-                    
-                    <h1 class="site-title">
-                        <a href="/">Alun Xu</a>
-                    </h1>
-                    
-                    
-                    <p class="site-description">Musical Data Scientist</p>
-                    
-                </div><!-- .site-identity -->
-                
-                <button id="menu-toggle" class="menu-toggle"><span class="screen-reader-text">Main Menu</span><span
-                        class="icon-menu" aria-hidden="true"></span></button>
-            </div><!-- .site-branding -->
-
-            <nav id="main-navigation" class="site-navigation" aria-label="Main Navigation">
-                <div class="site-nav-wrap">
-                    <div class="site-nav-inside">
-                    <ul class="menu">
-                        
-                        
-                        
-                        <li class="menu-item "><a href="/about">Home</a></li>
-                        
-                        
-                        
-                        <li class="menu-item "><a href="">Research</a></li>
-                        
-                        
-                        
-                        <li class="menu-item current-menu-item"><a href="/">Blog</a></li>
-                        
-                        
-                        
-                        <li class="menu-item "><a href="/search">Search</a></li>
-                        
-                        
-                        
-                        <li class="menu-item "><a href="/contact">Contact</a></li>
-                        
-                    </ul>
-                    <p class="social-links">
+			<nav
+				id="main-navigation"
+				class="site-navigation"
+				aria-label="Main Navigation"
+			>
+				<div class="site-nav-wrap">
+					<div class="site-nav-inside">
+						<ul class="menu">
+							  
+							<li class="menu-item ">
+								<a href="/about">Home</a>
+							</li>
+							  
+							<li class="menu-item ">
+								<a href="">Research</a>
+							</li>
+							  
+							<li class="menu-item current-menu-item">
+								<a href="/">Blog</a>
+							</li>
+							  
+							<li class="menu-item ">
+								<a href="/search">Search</a>
+							</li>
+							  
+							<li class="menu-item ">
+								<a href="/contact">Contact</a>
+							</li>
+							
+						</ul>
+						<p class="social-links">
     
     
     
@@ -107,13 +128,19 @@
     
     
 </p>
-                    </div><!-- .site-nav-inside -->
-                </div><!-- .site-nav-wrap -->
-            </nav><!-- .site-navigation -->
+					</div>
+					<!-- .site-nav-inside -->
+				</div>
+				<!-- .site-nav-wrap -->
+			</nav>
+			<!-- .site-navigation -->
+		</div>
+		<!-- .site-header-inside -->
+	</div>
+	<!-- .site-header-wrap -->
+</header>
+<!-- .site-header -->
 
-        </div><!-- .site-header-inside -->
-    </div><!-- .site-header-wrap -->
-</header><!-- .site-header -->
         <div id="content" class="site-content fadeInDown delay_075s">
             <div class="inner-wide">
                 <!DOCTYPE html>
@@ -122,8 +149,8 @@
 		
 		<div class="hero inner">
 			<p class="hero-text">
-				Weilcome to Aluniverse, a space to navigate, dedicate, and
-				illuminate.
+				Weilcome to Aluniverse, <br />
+				a space to navigate, dedicate, and illuminate.
 			</p>
 		</div>
 		 
@@ -134,14 +161,14 @@
     <div class="post-inside">
         
         <a href="http://localhost:4000/choosing-the-best-front-end-framework" class="post-thumbnail"><img src="assets/images/posts/2019/desk.jpg"
-                alt="23Fall 申请回忆录"></a>
+                alt="23Fall 硕博申请回忆录"></a>
         
         <header class="post-header">
             <div class="post-meta">
                 <time class="published" datetime="2022-01-05">January 5, 2022</time>
             </div><!-- .post-meta -->
             <h2 class="post-title">
-                <a href="/choosing-the-best-front-end-framework" rel="bookmark">23Fall 申请回忆录</a>
+                <a href="/choosing-the-best-front-end-framework" rel="bookmark">23Fall 硕博申请回忆录</a>
             </h2>
             
             <div class="post-tags">

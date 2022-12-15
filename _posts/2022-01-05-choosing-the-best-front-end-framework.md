@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "23Fall 硕博申请回忆录"
+title: "申请回忆录"
 tags: [dsad, Tips]
 featured_image_thumbnail:
 featured_image: assets/images/posts/2019/desk.jpg

@@ -6,7 +6,7 @@ logo:
 # Author image is used in site sidebar and greetings in the home page hero text
 author:
     image: "authorimage.jpg"
-    # greetings: "Weilcome to Aluniverse. illumination and navigation"
+    greetings: "Weilcome to Aluniverse, a space to navigate, dedicate, and illuminate."
 favicon: "assets/images/favicon.ico"
 baseurl:
 production_url: https://royce.netlify.com/
@@ -36,15 +36,16 @@ thankyou_page_description: "Your message has been successfully sent. We will con
 # Navigation
 navigation:
     - text: Home
-      url: /
-    - text: About
       url: /about
-    - text: Style Guide
-      url: /style-guide
-    - text: Contact Me
-      url: /contact
+    - text: Research
+    - text: Blog
+      url: /
     - text: Search
       url: /search
+    # - text: Style Guide
+    #   url: /style-guide
+    - text: Contact
+      url: /contact
 
 # Required Plugins
 plugins_dir:

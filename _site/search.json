@@ -22,6 +22,14 @@
       "tags"     : "JavaScript, Tips, Node",
       "url"      : "/Installing-multiple-versions-of-node-js",
       "date"     : "January 2, 2022"
+    } ,
+  
+    {
+      "title"    : "Advanced Markdown tips",
+      "category" : "",
+      "tags"     : "Jekyll, Tips",
+      "url"      : "/advanced-markdown-tips",
+      "date"     : "February 7, 2018"
     } 
   
 ]

@@ -1,0 +1,57 @@
+I"�<!-- <img align="left" width="200px" padding-right="10px" src="/assets/images/pages/about-alun.jpg"> -->
+
+<p><img src="/assets/images/pages/about-alun.jpg" alt="myimg" height="20px" width="260px" style="float:left; padding-right:20px" /></p>
+
+<p><strong>Alun | Weilun Xu 「徐尉伦」</strong></p>
+
+<ul>
+  <li>Ph.D. Student</li>
+  <li><a href="https://www.cs.cornell.edu/">Department of Computer Science</a></li>
+  <li><a href="https://cis.cornell.edu/">College of Computing and Information
+Science</a></li>
+  <li><a href="https://www.cornell.edu/">Cornell University</a>
+I am a senior undergraduate in the <a href="https://ms.unimelb.edu.au/">School of Mathematics and Statistics</a>, <a href="https://www.unimelb.edu.au/">University of Melbourne</a>, ranked top 3% academically among over 10,000 students in the faculty with WAM 89 / 100.</li>
+</ul>
+
+<p>As a data scientist and musician, my <strong>long-term objective</strong> is to innovatively enliven human communication through <strong>an emotion-driven algorithmic composition system</strong>. I aim to enhance individuals’ ability to convey unspoken sentiments through music, thereby helping them overcome expressive limitations and alleviate mental anguish. Therefore, my research interests underlie the intersection of high-level music technology and data science, including but not limited to computational analysis and inference of human music perception and cognition, music information retrieval, similarity learning, cross-modal feature integration, algorithmic composition and orchestration, and automatic annotation.</p>
+
+<!-- Curriculum Vitae ([English](../files/HongzhengChen_CV.pdf) / [Chinese](../files/HongzhengChen_CV_zh.pdf)).
+ -->
+
+<p>My updated Curriculum Vitae is <a href="../files/HongzhengChen_CV.pdf">here</a></p>
+
+<h2 id="education">Education</h2>
+
+<ul>
+  <li><strong>B.Sc. in Computer Science</strong>, Sun Yat-sen University, 2017.8 - 2021.6 (expected)</li>
+</ul>
+
+<h2 id="publications">Publications</h2>
+
+<ol>
+  <li><strong>Hongzheng Chen</strong>, Minghua Shen, “<em>A Deep-Reinforcement-Learning-Based Scheduler for FPGA HLS</em>”, in Proceedings of the 38th International Conference on Computer-Aided Design (ICCAD), 2019. [<a href="https://ieeexplore.ieee.org/document/8942126">PDF</a>]</li>
+  <li>Minghua Shen, <strong>Hongzheng Chen*</strong>, Nong Xiao, “<em>Entropy-Directed Scheduling for FPGA High-Level Synthesis</em>”, in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2020. [<a href="https://ieeexplore.ieee.org/document/8823964">PDF</a>]</li>
+  <li>Yichi Zhang, Junhao Pan, Xinheng Liu, <strong>Hongzheng Chen</strong>, Deming Chen, Zhiru Zhang, “<em>FracBNN: Accurate and FPGA-Efficient Binary Neural Networks with Fractional Activations</em>”, in Proceedings of the 29th ACM/SIGDA International Symposium on Field-Programmable Gate Arrays (FPGA), 2021.</li>
+</ol>
+
+<p>    <b><font color="black">\* Corresponding author</font></b></p>
+
+<h2 id="awards--honors">Awards &amp; Honors</h2>
+
+<ul>
+  <li><strong>CCF Elite Collegiate Award</strong> (98 undergrads in China), China Computer Federation (CCF), 2020</li>
+  <li><strong>Chinese National Scholarship $\times$ 2</strong> (Top 2%), Ministry of Education of PRC, 2018-2020</li>
+  <li><strong>First-Prize Scholarship $\times$ 3</strong> (Top 5%), Sun Yat-sen University, 2017-2020</li>
+  <li><strong>Samsung Scholarship</strong> (Top 1%), Samsung Electronics, 2017-2018</li>
+  <li><strong>Second Place</strong>, <em>IEEE EDAthon</em>, IEEE Council on Electronic Design Automation (CEDA), 2019.7</li>
+  <li><strong>Meritorious Winner</strong>, <em>Mathematical Contest in Modeling (MCM)</em>, COMAP, 2019.1</li>
+</ul>
+
+<h2 id="skills">Skills</h2>
+
+<ul>
+  <li><strong>Programming</strong>: C, C++, Python, Haskell, Prolog, x86 assembly, Verilog</li>
+  <li><strong>Toolkits</strong>: OpenMP, CUDA, MPI, Pytorch, Wolfram Mathematica, Matlab, Vivado HLS, \(\LaTeX\)</li>
+  <li><strong>Languages</strong>: English (fluent), Chinese (native)</li>
+</ul>
+:ET

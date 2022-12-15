@@ -1,12 +1,12 @@
 # Site setings
 name: "Alun Xu"
-description: "Music & Data Scientist"
+description: "Musical Data Scientist"
 meta_description: "illumiation and navigation"
 logo:
 # Author image is used in site sidebar and greetings in the home page hero text
 author:
     image: "authorimage.jpg"
-#   greetings: "Hi there! My name is Charles Lavoie. I'm a freelance web developer, author and speaker based in Montreal, Canada. It’s nice to meet you."
+    # greetings: "Weilcome to Aluniverse. illumination and navigation"
 favicon: "assets/images/favicon.ico"
 baseurl:
 production_url: https://royce.netlify.com/
@@ -14,7 +14,7 @@ disqus: "justgoodthemes"
 mailchimp_url: "//justgoodthemes.us3.list-manage.com/subscribe/post?u=78f1bab16028354caeb23aecd&amp;id=4a7330d117"
 # Add your GA Tracking Id
 ga_analytics:
-
+livereload: true
 # Contact form setings
 email: raphael-xu@outlook.com
 contact_page_description: "Horace theme comes with a contact form built-in. You can use this form with Formspree service and get up to 50 submissions for free. Also, you can easily switch to another service if you want."

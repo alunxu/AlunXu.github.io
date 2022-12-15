@@ -1,9 +1,10 @@
 ---
 layout: post
-title: 'React.js Conferences to Attend in 2018'
+title: "React.js Conferences to Attend in 2018"
 tags: [Startups, JavaScript]
 featured_image_thumbnail:
 featured_image: assets/images/posts/2018/6.jpg
+published: false
 ---
 
 Conferences are a perfect way to make friends and learn from experts. Here are some React conferences to look forward to in 2018.
@@ -20,10 +21,10 @@ For now, though, let's run you through some of the basics. You'll want to make s
 
 The most common shortcuts are of course, **bold** text, _italic_ text, and [hyperlinks](https://example.com). These generally make up the bulk of any document. You can type the characters out, but you can also use keyboard shortcuts.
 
-- `CMD/Ctrl + B` for Bold
-- `CMD/Ctrl + I` for Italic
-- `CMD/Ctrl + K` for a Link
-- `CMD/Ctrl + H` for a Heading (Press multiple times for h2/h3/h4/etc)
+-   `CMD/Ctrl + B` for Bold
+-   `CMD/Ctrl + I` for Italic
+-   `CMD/Ctrl + K` for a Link
+-   `CMD/Ctrl + H` for a Heading (Press multiple times for h2/h3/h4/etc)
 
 With just a couple of extra characters here and there, you're well on your way to creating a beautifully formatted story.
 
@@ -45,9 +46,9 @@ Lists in HTML are a formatting nightmare, but in Markdown they become an absolut
 
 or
 
-- Remember to buy milk
-- Feed the cat
-- Come up with idea for next story
+-   Remember to buy milk
+-   Feed the cat
+-   Come up with idea for next story
 
 ## Adding quotes
 

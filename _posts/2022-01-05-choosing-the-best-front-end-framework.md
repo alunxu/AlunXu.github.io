@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Choosing the Best Front-end Framework'
-tags: [JavaScript, Tips]
+title: "23Fall 申请回忆录"
+tags: [dsad, Tips]
 featured_image_thumbnail:
 featured_image: assets/images/posts/2019/desk.jpg
 featured: true

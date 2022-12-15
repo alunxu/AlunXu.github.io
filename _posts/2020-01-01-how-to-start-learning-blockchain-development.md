@@ -1,12 +1,15 @@
 ---
 layout: post
-title:  "How To Start Learning Blockchain Development"
-tags: [ Tips, Development  ]
+title: "How To Start Learning Blockchain Development"
+tags: [Tips, Development]
 featured_image_thumbnail:
 featured_image: assets/images/posts/2018/3.jpg
+published: false
+# featured: true
+# hidden: true
 ---
 
-A blockchain, originally block chain, is a continuously growing list of records, called blocks, which are linked and secured using cryptography. Each block typically contains a hash pointer as a link to a previous block, a timestamp and transaction data. By design, a blockchain is inherently resistant to modification of the data. It is *"an open, distributed ledger that can record transactions between two parties efficiently and in a verifiable and permanent way"*. 
+A blockchain, originally block chain, is a continuously growing list of records, called blocks, which are linked and secured using cryptography. Each block typically contains a hash pointer as a link to a previous block, a timestamp and transaction data. By design, a blockchain is inherently resistant to modification of the data. It is _"an open, distributed ledger that can record transactions between two parties efficiently and in a verifiable and permanent way"_.
 
 <!--more-->
 
@@ -22,12 +25,12 @@ The first work on a cryptographically secured chain of blocks was described in 1
 
 ![](https://images.unsplash.com/photo-1451187580459-43490279c0fa?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ&s=163e3ea37d2c0fda3f586d5552752f59#wide)
 
->”Bitcoin is the beginning of something great: a currency without a government, something necessary and imperative.” <cite>– Peter Thiel, Co-Founder of PayPal –</cite>
+> ”Bitcoin is the beginning of something great: a currency without a government, something necessary and imperative.” <cite>– Peter Thiel, Co-Founder of PayPal –</cite>
 
 The first blockchain was conceptualised by an anonymous person or group known as Satoshi Nakamoto in 2008. It was implemented the following year as a core component of the digital currency bitcoin, where it serves as the public ledger for all transactions on the network. By using a blockchain, bitcoin became the first digital currency to solve the double spending problem without requiring a trusted administrator and has been the inspiration for many additional applications.
 
 ## Structure
 
-A blockchain is a decentralized and distributed digital ledger that is used to record transactions across many computers so that the record cannot be altered retroactively without the alteration of all subsequent blocks and the collusion of the network. This allows the participants to verify and audit transactions inexpensively. A blockchain database is managed autonomously using a peer-to-peer network and a distributed timestamping server. They are authenticated by mass collaboration powered by collective self-interests. The result is a robust workflow where participants' uncertainty regarding data security is marginal. The use of a blockchain removes the characteristic of infinite reproducibility from a digital asset. It confirms that each unit of value was transferred only once, solving the long-standing problem of double spending. 
+A blockchain is a decentralized and distributed digital ledger that is used to record transactions across many computers so that the record cannot be altered retroactively without the alteration of all subsequent blocks and the collusion of the network. This allows the participants to verify and audit transactions inexpensively. A blockchain database is managed autonomously using a peer-to-peer network and a distributed timestamping server. They are authenticated by mass collaboration powered by collective self-interests. The result is a robust workflow where participants' uncertainty regarding data security is marginal. The use of a blockchain removes the characteristic of infinite reproducibility from a digital asset. It confirms that each unit of value was transferred only once, solving the long-standing problem of double spending.
 
 Blockchains have been described as a value-exchange protocol. This blockchain-based exchange of value can be completed more quickly, more safely and more cheaply than with traditional systems. A blockchain can assign title rights because it provides a record that compels offer and acceptance. [(Source)](https://en.wikipedia.org/wiki/Blockchain)

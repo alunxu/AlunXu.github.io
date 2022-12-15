@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "What is Jekyll?"
-tags: [ Jekyll, Development ]
+title: "What is Jekyll?"
+tags: [Jekyll, Development]
 featured_image_thumbnail:
 featured_image: assets/images/posts/2018/11.jpg
+published: false
 ---
 
 No more databases, comment moderation, or pesky updates to install-just your content. Markdown, Liquid, HTML & CSS go in. Static sites come out ready for deployment. Permalinks, categories, pages, posts, and custom layouts are all first-class citizens here.

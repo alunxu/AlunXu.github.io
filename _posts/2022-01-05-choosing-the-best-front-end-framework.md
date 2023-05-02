@@ -8,6 +8,14 @@ featured: true
 hidden: true
 ---
 
+Model the dataset as a parametric probability density model:
+
+$$y \sim g(y;\theta)$$
+
+We have the likelihood:
+
+$$L(y;\theta) = g(y;\theta) = g(y_1,...,y_N ; \theta) = \prod_{i=1}^{N} g(y_i;\theta)$$
+
 In computer science, a **software framework** is an abstraction in which software providing generic functionality can be selectively changed by additional user-written code, thus providing application-specific software. A software framework provides a standard way to build and deploy applications.
 
 <!--more-->

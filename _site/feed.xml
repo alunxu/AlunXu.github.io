@@ -5,13 +5,21 @@
     <description>Musical Data Scientist</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 16 Dec 2022 07:12:02 +1100</pubDate>
-    <lastBuildDate>Fri, 16 Dec 2022 07:12:02 +1100</lastBuildDate>
+    <pubDate>Thu, 05 Jan 2023 16:47:58 +1100</pubDate>
+    <lastBuildDate>Thu, 05 Jan 2023 16:47:58 +1100</lastBuildDate>
     <generator>Jekyll v4.2.2</generator>
     
       <item>
         <title>申请回忆录</title>
-        <description>&lt;p&gt;In computer science, a &lt;strong&gt;software framework&lt;/strong&gt; is an abstraction in which software providing generic functionality can be selectively changed by additional user-written code, thus providing application-specific software. A software framework provides a standard way to build and deploy applications.&lt;/p&gt;
+        <description>&lt;p&gt;Model the dataset as a parametric probability density model:&lt;/p&gt;
+
+\[y \sim g(y;\theta)\]
+
+&lt;p&gt;We have the likelihood:&lt;/p&gt;
+
+\[L(y;\theta) = g(y;\theta) = g(y_1,...,y_N ; \theta) = \prod_{i=1}^{N} g(y_i;\theta)\]
+
+&lt;p&gt;In computer science, a &lt;strong&gt;software framework&lt;/strong&gt; is an abstraction in which software providing generic functionality can be selectively changed by additional user-written code, thus providing application-specific software. A software framework provides a standard way to build and deploy applications.&lt;/p&gt;
 
 &lt;!--more--&gt;
 

@@ -38,7 +38,7 @@ Therefore, my **research interests** broadly underlie the **intersection of high
 <!-- Curriculum Vitae ([English](../files/HongzhengChen_CV.pdf) / [Chinese](../files/HongzhengChen_CV_zh.pdf)).
  -->
 
-My up-to-date Curriculum Vitae is [here](../files/HongzhengChen_CV.pdf)
+<!-- My up-to-date Curriculum Vitae is [here](../files/HongzhengChen_CV.pdf) -->
 
 <!-- ## Education
 

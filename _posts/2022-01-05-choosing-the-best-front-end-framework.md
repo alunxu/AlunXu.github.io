@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "申请回忆录"
-tags: [dsad, Tips]
+tags: [Tips]
 featured_image_thumbnail:
-featured_image: assets/images/posts/2019/desk.jpg
-featured: true
-hidden: true
+# featured_image: assets/images/posts/2019/desk.jpg
+featured: false
+hidden: false
 ---
 
 Model the dataset as a parametric probability density model:

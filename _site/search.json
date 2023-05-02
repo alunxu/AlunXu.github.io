@@ -1,9 +1,17 @@
 [
   
     {
+      "title"    : "如何高效地进行机器学习相关领域的研究",
+      "category" : "",
+      "tags"     : "research-tip",
+      "url"      : "/how-to-do-ML-research-efficienty",
+      "date"     : "February 1, 2023"
+    } ,
+  
+    {
       "title"    : "申请回忆录",
       "category" : "",
-      "tags"     : "dsad, Tips",
+      "tags"     : "Tips",
       "url"      : "/choosing-the-best-front-end-framework",
       "date"     : "January 5, 2022"
     } ,

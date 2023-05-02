@@ -1,14 +1,14 @@
 ---
 layout: post
 title: "如何高效地进行机器学习相关领域的研究"
-tags: [research-tip]
+tags: [Research Tips]
 featured_image_thumbnail:
 featured_image: assets/images/posts/2018/10.jpg
 published: true
 featured: true
 ---
 
-## 主要讨论两方面——如何选题，如何规划。
+## 主要讨论两方面—如何选题，如何规划。
 
 ---
 

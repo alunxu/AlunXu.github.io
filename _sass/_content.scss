@@ -29,6 +29,7 @@
 
 .post-thumbnail img {
 	width: 100%;
+	// padding-left: 18%;
 }
 
 .post-meta,
@@ -94,12 +95,13 @@
 
 .post-full .post-content > p:first-child:first-letter {
 	color: $gray-darkest;
+	width: 100%;
 	font-weight: 400;
-	font-size: 90px;
+	font-size: 100px;
 	font-family: $font-secondary;
 	float: left;
 	line-height: 0.8;
-	margin-right: 15px;
+	margin-right: 10px;
 	position: relative;
 	text-transform: uppercase;
 	vertical-align: bottom;
@@ -314,6 +316,7 @@ ul.archive-posts-list {
 	-ms-flex-wrap: wrap;
 	flex-wrap: wrap;
 	margin: 0 -0.83333em 2.5em;
+	padding-left: 15%;
 }
 
 .post-featured {
@@ -334,7 +337,6 @@ ul.archive-posts-list {
 
 .post-featured img {
 	height: 100%;
-	left: 0;
 	object-fit: cover;
 	position: absolute;
 	top: 0;
